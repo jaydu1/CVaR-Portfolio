@@ -22,7 +22,8 @@ The script `summary.py` outputs the results and reproduces the figures.
 
 This code is delivered via the files described above.
 
-Python (version 3.6 or later) is required to run the files, and it has only been tested on the Linux and the MacOS platforms.
+Python (version 3.6 or later) is required to run the files, and it has only been tested on the Linux (6 Xeon(R) CPU E5-2690 @ 2.90GHz and 128 GB memory) and the MacOS platforms.
+
 
 
 Python packages to run reproducible code:
@@ -41,4 +42,7 @@ Python packages to run reproducible code:
 
 
 ## S\&P 500 Data
+
+The S\&P dataset and the consistuent information are proprietary, purchased through WRDS and Siblis Research, Inc. 
+The contract heavily restricts even characteristics of the data (for example, information on stock prices that appear in the datasets). 
 Please refer to [repo](https://github.com/jaydu1/SparsePortfolio/tree/supplement) for obtaining the S\&P 500 dataset.
