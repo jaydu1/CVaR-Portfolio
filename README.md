@@ -43,6 +43,6 @@ Python packages to run reproducible code:
 
 ## S\&P 500 Data
 
-The S\&P dataset and the consistuent information are proprietary, purchased through WRDS and Siblis Research, Inc. 
+The S\&P dataset and the constituent information are proprietary, purchased through WRDS and Siblis Research, Inc. 
 The contract heavily restricts even characteristics of the data (for example, information on stock prices that appear in the datasets). 
 Please refer to [repo](https://github.com/jaydu1/SparsePortfolio/tree/supplement) for obtaining the S\&P 500 dataset.
